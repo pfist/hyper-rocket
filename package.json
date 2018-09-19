@@ -1,0 +1,19 @@
+{
+  "name": "hyper-rocket",
+  "version": "0.1.0",
+  "description": "A Hyper theme based on Rocket Syntax",
+  "homepage": "https://github.com/polymoon/hyper-rocket",
+  "bugs": "https://github.com/polymoon/hyper-rocket/issues",
+  "repository": "polymoon/hyper-rocket",
+  "license": "MIT",
+  "author": "Nick Pfisterer <nick@polymoon.net",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "theme",
+    "rocket",
+    "colorful",
+    "vibrant",
+    "atom"
+  ]
+}
